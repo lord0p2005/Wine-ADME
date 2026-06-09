@@ -1,0 +1,6 @@
+{
+  "name": "TB PK-PD Therapy Dashboard",
+  "description": "Interactive Pharmacokinetic/Pharmacodynamic (PK/PD) Antituberculosis Therapy Dashboard modeling isoniazid, rifampicn, and bedaquiline with clinical thresholds, genetic polymorphisms, and prandial modifiers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
